@@ -1,0 +1,52 @@
+.crop {
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.crop img {
+    height: 100%;
+    width: 100%;
+}
+
+.footer{
+    height: 200px;
+    border: 0px;
+    color: white;
+    padding: 90px
+}
+
+.input-group{
+    width: auto; 
+    max-width: 500px; 
+    font-size: 17px;  
+    margin-left: auto;  
+    margin-right: auto;
+    padding: 10px; 
+}
+
+.input-group-text{
+    background-color: #00e5ff;
+    color: white;
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 5px blue;
+}
+
+#button2{
+width: 150px;
+height: 30px;
+background-color: #00e5ff;
+color: white;
+border-radius: 30px;
+box-shadow: inset 2px 2px 5px blue;
+margin: 10px 10px 10px 10px;
+}
+
+#button2:active{
+width: 150px;
+height: 30px;
+background-color: #00e5ff;
+color: white;
+border-radius: 30px;
+box-shadow: inset 2px 2px 5px blue;
+}
